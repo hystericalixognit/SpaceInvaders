@@ -1,0 +1,1 @@
+inimigo1_vida -= global.tiro_nave_dano;

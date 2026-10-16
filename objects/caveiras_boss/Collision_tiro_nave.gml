@@ -1,0 +1,1 @@
+vida_caveira -= global.tiro_nave_dano;

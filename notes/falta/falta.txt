@@ -1,0 +1,10 @@
+No game falta:
+
+criar as barreiras que mudam de cor a depender da vida
+criar mecânica de reparo da nave
+colocar musica e sons
+colocar animação de explosão e som de explosão
+
+criar hub
+com botão de play
+criar hub de game_over com botão de jogar novamente.

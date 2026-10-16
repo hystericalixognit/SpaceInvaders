@@ -1,0 +1,1 @@
+vida_bar -= global.tiro_inimigo_dano;
