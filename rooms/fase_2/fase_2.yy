@@ -21,6 +21,7 @@
     {"name":"inst_A10E112","path":"rooms/fase_2/fase_2.yy",},
     {"name":"inst_6D10F6B9","path":"rooms/fase_2/fase_2.yy",},
     {"name":"inst_5DF52BAB","path":"rooms/fase_2/fase_2.yy",},
+    {"name":"inst_1FBDF11C","path":"rooms/fase_2/fase_2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -52,6 +53,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"mostrador_vida","path":"objects/mostrador_vida/mostrador_vida.yy",},"propertyId":{"name":"destino","path":"objects/mostrador_vida/mostrador_vida.yy",},"resource":{"name":"fase_3","path":"rooms/fase_3/fase_3.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"fase_3",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":449.0,"y":564.75,},
         {"$GMRInstance":"v4","%Name":"inst_5DF52BAB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5DF52BAB","objectId":{"name":"obj_inimigo1","path":"objects/obj_inimigo1/obj_inimigo1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":210.0,"y":770.0,},
+        {"$GMRInstance":"v4","%Name":"inst_1FBDF11C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1FBDF11C","objectId":{"name":"obj_modo_tiro","path":"objects/obj_modo_tiro/obj_modo_tiro.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":18.0,"y":582.5,},
       ],"layers":[],"name":"camada_de_objetos","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":"_filter_posterise","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[
         {"name":"g_ColourLevels","type":0,"value":"4",},

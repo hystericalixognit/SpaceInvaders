@@ -18,11 +18,18 @@ else
 	hspeed = 0;
 }
 
-if(segunda_fase)
+if(instance_number(obj_nave) == 1)
 {
-	velocida_boss *= 2;
-	image_angle = radtodeg(-arctan2(obj_nave.y - y, obj_nave.x - x) + 360);
+	if(segunda_fase)
+	{
+		velocida_boss *= 2;
+		image_angle = radtodeg(-arctan2(obj_nave.y - y, obj_nave.x - x) + 360);
 	
+	}
+}
+else
+{
+	exit;
 }
 
 

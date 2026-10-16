@@ -69,6 +69,7 @@
     {"id":{"name":"obj_explosao","path":"objects/obj_explosao/obj_explosao.yy",},},
     {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},},
     {"id":{"name":"obj_inimigo1","path":"objects/obj_inimigo1/obj_inimigo1.yy",},},
+    {"id":{"name":"obj_modo_tiro","path":"objects/obj_modo_tiro/obj_modo_tiro.yy",},},
     {"id":{"name":"obj_morte_inimigo","path":"objects/obj_morte_inimigo/obj_morte_inimigo.yy",},},
     {"id":{"name":"obj_nave","path":"objects/obj_nave/obj_nave.yy",},},
     {"id":{"name":"obj_reparo","path":"objects/obj_reparo/obj_reparo.yy",},},
@@ -115,8 +116,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"tela_menu","path":"rooms/tela_menu/tela_menu.yy",},},
     {"roomId":{"name":"fase_4","path":"rooms/fase_4/fase_4.yy",},},
+    {"roomId":{"name":"tela_menu","path":"rooms/tela_menu/tela_menu.yy",},},
     {"roomId":{"name":"fase_1","path":"rooms/fase_1/fase_1.yy",},},
     {"roomId":{"name":"fase_3","path":"rooms/fase_3/fase_3.yy",},},
     {"roomId":{"name":"game_over","path":"rooms/game_over/game_over.yy",},},
