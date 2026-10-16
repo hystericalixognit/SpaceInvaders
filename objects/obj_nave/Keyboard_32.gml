@@ -4,5 +4,5 @@ if (pode_atirar)
 	audio_play_sound(snd_tiro, 1, false, 0.2);
 	
 	pode_atirar = false
-	alarm[0] = 60
+	alarm[0] = 15;
 }
